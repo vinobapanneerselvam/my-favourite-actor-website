@@ -1,4 +1,4 @@
-# My Fav Actor - Vijay 🎬
+My First website 
 
 This is a beginner-level HTML project ,I created on my first day of learning HTML. 
 The website is a small tribute to my favorite actor **Vijay**, showcasing his photos, videos, and movies I love.
